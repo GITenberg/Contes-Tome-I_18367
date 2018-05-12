@@ -18,6 +18,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Marie-Catherine_d%27Aulnoy
     - http://en.wikipedia.org/wiki/Madame_d%27Aulnoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18367#Contes-Tome-I
 gutenberg_bookshelf:
 - FR Femmes
 - FR Contes
