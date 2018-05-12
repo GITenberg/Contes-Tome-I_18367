@@ -1,0 +1,36 @@
+_repo: Contes-Tome-I_18367
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aulnoy, Madame d' (Marie-Catherine)
+    aliases:
+    - Berneville, Marie-Catherine Jumelle de, comtesse d'Aulnoy
+    - d'Aulnoy, Marie-Catherine
+    - Aulnoy, Marie-Catherine Le Jumel de Barneville, baronne d'
+    birthdate: 1650
+    deathdate: 1705
+    gutenberg_agent_id: '7974'
+    url: http://www.gutenberg.org/2009/agents/7974
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Marie-Catherine_d%27Aulnoy
+    - http://en.wikipedia.org/wiki/Madame_d%27Aulnoy
+description: ''
+gutenberg_bookshelf:
+- FR Femmes
+- FR Contes
+gutenberg_issued: '2006-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18367'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- France'
+- !lcc 'PQ'
+title: Contes, Tome I
+url: http://www.gutenberg.org/ebooks/18367
